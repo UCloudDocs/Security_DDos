@@ -47,108 +47,25 @@
 | 广东   | 广东可用区B   | 2Gbps |
 
 ### 境外机房
-
-<table>
-<thead>
-<tr class="header">
-<th>地域名称</th>
-<th>下属可用区</th>
-<th>防护阈值</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>香港</td>
-<td>香港可用区A/B</td>
-<td>1Gbps<br />
-回大陆线路500Mbps</td>
-</tr>
-<tr class="even">
-<td>洛杉矶</td>
-<td>洛杉矶可用区A</td>
-<td>1Gbps</td>
-</tr>
-<tr class="odd">
-<td>华盛顿</td>
-<td>华盛顿可用区A</td>
-<td>1Gbps</td>
-</tr>
-<tr class="even">
-<td>法兰克福</td>
-<td>法兰克福可用区A</td>
-<td>1Gbps</td>
-</tr>
-<tr class="odd">
-<td>曼谷</td>
-<td>曼谷可用区A</td>
-<td>1Gbps</td>
-</tr>
-<tr class="even">
-<td>首尔</td>
-<td>首尔可用区A</td>
-<td>700Mbps</td>
-</tr>
-<tr class="odd">
-<td>新加坡</td>
-<td>新加坡可用区A</td>
-<td>1Gbps</td>
-</tr>
-<tr class="even">
-<td>高雄</td>
-<td>高雄可用区A</td>
-<td>1Gbps</td>
-</tr>
-<tr class="odd">
-<td>莫斯科</td>
-<td>莫斯科可用区A</td>
-<td>1Gbps</td>
-</tr>
-<tr class="even">
-<td>东京</td>
-<td>东京可用区A</td>
-<td>1Gbps</td>
-</tr>
-<tr class="odd">
-<td>台北</td>
-<td>台北可用区A</td>
-<td>1Gbps</td>
-</tr>
-<tr class="even">
-<td>迪拜</td>
-<td>迪拜可用区A</td>
-<td>1Gbps</td>
-</tr>
-<tr class="odd">
-<td>雅加达</td>
-<td>雅加达可用区A</td>
-<td>1Gbps</td>
-</tr>
-<tr class="even">
-<td>孟买</td>
-<td>孟买可用区A</td>
-<td>1Gbps</td>
-</tr>
-<tr class="odd">
-<td>圣保罗</td>
-<td>圣保罗可用区A</td>
-<td>1Gbps</td>
-</tr>
-<tr class="even">
-<td>伦敦</td>
-<td>伦敦可用区A</td>
-<td>1Gbps</td>
-</tr>
-<tr class="odd">
-<td>拉各斯</td>
-<td>尼日利亚可用区A</td>
-<td>900Mbps</td>
-</tr>
-<tr class="even">
-<td>胡志明市</td>
-<td>胡志明市可用区A</td>
-<td>1Gbps</td>
-</tr>
-</tbody>
-</table>
+地域名称|下属可用区|防护阈值
+--------|----------|--------
+香港	|香港可用区A/B|	1Gbps,回大陆线路500Mbps
+洛杉矶	|洛杉矶可用区A|	1Gbps
+华盛顿	|华盛顿可用区A|	1Gbps
+法兰克福|	法兰克福可用区A	|1Gbps
+曼谷	|曼谷可用区A|	1Gbps
+首尔	|首尔可用区A|	700Mbps
+新加坡	|新加坡可用区A| 1Gbps
+高雄	|高雄可用区A|	1Gbps
+莫斯科	|莫斯科可用区A|	1Gbps
+东京	|东京可用区A|	1Gbps
+台北	|台北可用区A|	1Gbps
+迪拜	|迪拜可用区A|	1Gbps
+雅加达	|雅加达可用区A|	1Gbps
+孟买	|孟买可用区A|	1Gbps
+圣保罗	|圣保罗可用区A|	1Gbps
+伦敦	|伦敦可用区A|	1Gbps
+拉各斯	|尼日利亚可用区A|	900Mbps
+胡志明市	|胡志明市可用区A|	1Gbps
 
 <wrap em>注意：香港机房如果回大陆线路超过了500M则会封堵。</wrap>
